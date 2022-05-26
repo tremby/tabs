@@ -2,7 +2,7 @@ Bad Code
 by Chimp Spanner
 transcribed by Bart Nagel, 2008-10-21, last updated 2014-09-09
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 8th notes at 222 BPM
 mostly in 7/8 time

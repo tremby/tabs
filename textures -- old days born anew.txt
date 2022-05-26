@@ -3,7 +3,7 @@ by Textures
 from the 2009 album Silhouettes
 transcribed by Bart Nagel, 2009-11-29, last updated 2011-12-23
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 209 BPM
 mostly in 4/4 time

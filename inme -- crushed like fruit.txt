@@ -3,7 +3,7 @@ by Inme
 from the 2003 album Overgrown Eden
 transcribed by Bart Nagel, 2003-02-06, fixed 2008-02-04, last updated 2009-12-04
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 drop D tuning
 4/4 time

@@ -2,7 +2,7 @@ Still Alive
 by Jonathan Coulton
 transcribed by Bart Nagel, 2009-07-21
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 XXXish BPM
 

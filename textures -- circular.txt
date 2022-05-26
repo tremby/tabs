@@ -3,7 +3,7 @@ by Textures
 from the 2006 album Drawing Circles
 transcribed by Bart Nagel, 2010-07-01
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 mostly in 4/4 time
 

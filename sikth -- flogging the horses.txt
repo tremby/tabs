@@ -3,7 +3,7 @@ by Sikth
 from the 2006 album Death of a Dead Day
 transcribed by Bart Nagel, 2008-06-25
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 standard tuning down one semitone
 4/4 time

@@ -3,7 +3,7 @@ by Meshuggah
 from the 2012 album Koloss
 transcribed by Bart Nagel, 2015-09-28.
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 Playthrough: https://www.youtube.com/watch?v=2XFos-S4ArU
 
 8-string guitars

@@ -3,7 +3,7 @@ by Incubus
 from the 1999 single Pardon Me
 transcribed by Bart Nagel, 2003-01-08, fixed 2008-02-04, last updated 2008-05-26
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 Drop D Tuning
 6/8 time

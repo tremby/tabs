@@ -3,7 +3,7 @@ by Tool
 from the 2006 album 10,000 Days
 transcribed by Bart Nagel, 2008-08-28, last updated 2009-12-04
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 drop-D tuning
 mostly 5/4 time @115 BPM

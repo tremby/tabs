@@ -2,7 +2,7 @@ Terminus
 by Chimp Spanner
 transcribed by Bart Nagel, 2008-05-25, last updated 2008-09-26
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 134 BPM
 

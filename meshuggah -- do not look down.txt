@@ -3,7 +3,7 @@ by Meshuggah
 from the 2012 album Koloss
 transcribed by Bart Nagel, 2012-05-24. last updated 2013-12-11
 e: bart at tremby.NOT (net, not not)
-w: tremby.net/tabs
+w: github.com/tremby/tabs
 
 8-string guitars, only low 4 shown
 4/4 time @160 BPM
